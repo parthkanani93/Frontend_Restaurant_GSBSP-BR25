@@ -10,6 +10,22 @@
     min-height:400px;
 }
 
+p.d-none.d-sm-block {
+    width: 60%;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.h2, h2 , .h4, h4{
+    width: 60%;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.navbar-collapse .navbar-text a.btn{
+    border: 1px solid #fff;
+}
+
 .footer{
     background-color: #D1C4E9;
     margin:0px auto;
